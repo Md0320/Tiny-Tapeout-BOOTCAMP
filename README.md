@@ -10,7 +10,6 @@ Tiny Tapeout is an educational project that aims to make it easier and cheaper t
 
 To learn more and get started, visit https://tinytapeout.com.
 
----This is my third repo and tries.
 
 ## Wokwi Projects
 
